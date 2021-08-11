@@ -337,8 +337,10 @@
 			"translation": [0, 6.5, -7]
 		},
 		"firstperson_righthand": {
-			"translation": [-3.5, 8.5, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [-3.5, 8.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-3.5, 8.5, 0]
 		},
 		"ground": {
 			"translation": [0, 10, -4.5],
