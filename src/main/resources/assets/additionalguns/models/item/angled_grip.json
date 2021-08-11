@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench - ThatAvocado_Boi",
+	"credit": "Made with Blockbench by ThatAvocado_Boi",
 	"textures": {
 		"1": "cgm:items/specialised_grip",
 		"particle": "cgm:items/specialised_grip"
@@ -94,8 +94,7 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 2, 1.25],
-			"scale": [1.1, 1.1, 1.1]
+			"translation": [0, 0.5, 0]
 		},
 		"firstperson_righthand": {
 			"translation": [-1.75, 5.5, 4.25],
@@ -106,12 +105,12 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [0, 4.25, 0],
-			"scale": [2.75, 2.75, 2.75]
+			"translation": [0, 2.25, 0],
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 4.5, -1.25],
+			"translation": [0.5, 3.25, -1.25],
 			"scale": [2.5, 2.5, 2.5]
 		}
 	}
