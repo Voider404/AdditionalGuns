@@ -43,11 +43,6 @@
         "zOffset": 4.1,
         "scale": 0.75
       },
-      "barrel": {
-        "yOffset": 3.6,
-        "zOffset": -7.8,
-        "scale": 0.5
-      },
       "stock": {
         "yOffset": 3.65,
         "zOffset": 8.2

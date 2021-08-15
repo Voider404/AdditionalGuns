@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench by ThatAvocado_Boi",
 	"textures": {
-		"2": "additionalguns:item/s_light_stock"
+		"2": "additionalguns:item/stock_lynx"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by ThatAvocado_Boi",
 	"textures": {
-		"1": "cgm:items/tactical_stock",
-		"particle": "cgm:items/tactical_stock"
+		"1": "additionalguns:item/basic_stock",
+		"particle": "additionalguns:item/basic_stock"
 	},
 	"elements": [
 		{

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by ThatAvocado_Boi",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "additionalguns:item/mat_49",
@@ -566,7 +566,7 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [0.25, 2.5, 0],
+			"translation": [0.25, 3.25, 0],
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {

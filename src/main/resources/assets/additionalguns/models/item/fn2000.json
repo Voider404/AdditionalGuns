@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by ThatAvocado_Boi",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "additionalguns:item/fn2000"
@@ -390,8 +390,7 @@
 			"translation": [-3, 9, -2.75]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 5.25, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"translation": [-3, 9, -2.75]
 		},
 		"ground": {
 			"translation": [0, 3.75, -3.25],

@@ -12,7 +12,7 @@
     "spread": 1.0
   },
   "projectile": {
-    "item": "additionalguns:ammo_939_sp5",
+    "item": "additionalguns:ammo_939_sp6",
     "visible": false,
     "gravity": true,
     "damage": 15,
